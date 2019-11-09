@@ -20,10 +20,9 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 + **Gitlab-gnome**: [https://gitlab.gnome.org/priyankasaggu119](https://gitlab.gnome.org/priyankasaggu119)
 + **Gitlab-salsa**: [https://salsa.debian.org/priyankasaggu119-guest](https://salsa.debian.org/priyankasaggu119-guest)
 + **Github**: [https://github.com/Priyankasaggu11929/](https://github.com/Priyankasaggu11929/)
-+ **Resume.pdf**: [download here](https://github.com/Priyankasaggu11929/resume/raw/master/index.pdf)
++ **Resume.pdf**: [download here](https://github.com/Priyankasaggu11929/resume/raw/master/priyankasaggu.pdf)
 
 
- 
 # Experience
 
 ## Community Learning & Contributions
