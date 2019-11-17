@@ -11,7 +11,7 @@ classoption: "12pt"
 
 ## Summary
 
-Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote IaC files to automate the setting up of tightly-secured and SSH-hardened systems/servers. Working closely under the guidance of mentors from leading upstream open-source projects.
+Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Working closely under the guidance of mentors from leading upstream open-source projects.
 
 ## Personal Info
 
@@ -21,7 +21,6 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 + **Gitlab-salsa**: [https://salsa.debian.org/priyankasaggu119-guest](https://salsa.debian.org/priyankasaggu119-guest)
 + **Github**: [https://github.com/Priyankasaggu11929/](https://github.com/Priyankasaggu11929/)
 + **Resume.pdf**: [download here](https://github.com/Priyankasaggu11929/resume/raw/master/priyankasaggu.pdf)
-
 
 # Experience
 
