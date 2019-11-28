@@ -11,7 +11,7 @@ classoption: "12pt"
 
 ## Summary
 
-Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Working closely under the guidance of mentors from leading upstream open-source projects.
+Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Working closely under the guidance of mentors from leading upstream open-source projects. And an [Outreachy'19 intern at GNOME Foundation](https://www.outreachy.org/alums/).
 
 ## Personal Info
 
@@ -53,6 +53,10 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 
 ## Internships
 
++ [**GNOME Foundation**](https://www.outreachy.org/alums/)
+
+_Outreachy'19 Intern - Present_
+
 + **Learn IT, Girl** [(Certificate)](https://www.credential.net/bv0kk4cq)
 
 _Scholar mentee - 2019_
@@ -60,6 +64,7 @@ _Scholar mentee - 2019_
 + **GeeksforGeeks, Noida** [(Certificate)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Priyanka-Saggu-1.jpg)
 
 _Graphics designer intern - 2018_
+
 
 
 # Education
