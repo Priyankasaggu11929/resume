@@ -16,11 +16,12 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 ## Personal Info
 
 + **Email**: [priyankasaggu11929@gmail.com](mailto:priyankasaggu11929@gmail.com)
-+ **Website**: [priyankasaggu119.wordpress.com](priyankasaggu119.wordpress.com)
++ **Website**: [https://priyankasaggu11929.github.io/](https://priyankasaggu11929.github.io/)
 + **Gitlab-gnome**: [https://gitlab.gnome.org/priyankasaggu119](https://gitlab.gnome.org/priyankasaggu119)
 + **Gitlab-salsa**: [https://salsa.debian.org/priyankasaggu119-guest](https://salsa.debian.org/priyankasaggu119-guest)
 + **Github**: [https://github.com/Priyankasaggu11929/](https://github.com/Priyankasaggu11929/)
 + **Resume.pdf**: [download here](https://github.com/Priyankasaggu11929/resume/raw/master/priyankasaggu.pdf)
+
 
 # Experience
 
@@ -101,11 +102,11 @@ _2012-2013_
 
 ## Self
 
-+ [A guide to a “safer” SSH!](https://priyankasaggu119.wordpress.com/2019/08/12/a-guide-to-a-safer-ssh/)
-+ [Containerisation using Docker!](https://priyankasaggu119.wordpress.com/2019/07/31/containerisation-using-docker/)
-+ [Let’s get started with iptables!](https://priyankasaggu119.wordpress.com/2019/08/09/lets-get-started-with-iptables/)
-+ [Automating WordPress Installation Through Ansible!](https://priyankasaggu119.wordpress.com/page/1/)
-+ [Setting up WriteFreely multi-user instance in production!](https://priyankasaggu119.wordpress.com/2019/07/29/setting-up-writefreely-multi-user-instance-in-production/)
++ [A guide to a “safer” SSH!](https://priyankasaggu11929.github.io/2019/08/12/a-guide-to-a-safer-ssh/)
++ [Containerisation using Docker!](https://priyankasaggu11929.github.io/2019/07/31/containerisation-using-docker/)
++ [Let’s get started with iptables!](https://priyankasaggu11929.github.io/2019/08/09/lets-get-started-with-iptables/)
++ [Automating WordPress Installation Through Ansible!](https://priyankasaggu11929.github.io/2019/08/05/automating-wordpress-installation-through-ansible/)
++ [Setting up WriteFreely multi-user instance in production!](https://priyankasaggu11929.github.io/2019/07/29/setting-up-writefreely-multi-user-instance-in-production/)
 
 ## Publications
 
