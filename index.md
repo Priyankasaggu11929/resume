@@ -23,6 +23,7 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 + **Resume.pdf**: [download here](https://github.com/Priyankasaggu11929/resume/raw/master/priyankasaggu.pdf)
 
 
+
 # Experience
 
 ## Community Learning & Contributions
@@ -66,6 +67,19 @@ _Scholar mentee - 2019_
 
 _Graphics designer intern - 2018_
 
+
+# Skills/ Keywords
+
++ **Linux**: Debian family (Ubuntu, Debian Buster), Red Hat family (CentOS)
++ **Scripting**: Bash and utils, Python
++ **Backend**: Python (Django)
++ **Frontend**: HTML, CSS, Javascript (JQuery, PhaserJS)
++ **GUI Toolkit**: GTK+ 3 in pure C
++ **Databases**: MySQL, SQLite
++ **Web Application servers/proxies**: Nginx, Apache2
++ **Version control systems**: Git
++ **DevOps**: Ansible, Docker, Docker Swarm, Server Management, Security
++ **Misc**: Google Cloud Platform (GCP), OpenCV, Java-J2SE
 
 
 # Education
@@ -114,15 +128,6 @@ _2012-2013_
 + [Flutter | An Introduction to the Open Source SDK by Google](https://www.geeksforgeeks.org/flutter-an-introduction-to-the-open-source-sdk-by-google/)
 
 
-# Skills/ Keywords
+# References
 
-+ **Linux**: Debian family (Ubuntu, Debian Buster), Red Hat family (CentOS)
-+ **Scripting**: Bash and utils, Python
-+ **Backend**: Python (Django)
-+ **Frontend**: HTML, CSS, Javascript (JQuery, PhaserJS)
-+ **GUI Toolkit**: GTK+ 3 in pure C
-+ **Databases**: MySQL, SQLite
-+ **Web Application servers/proxies**: Nginx, Apache2
-+ **Version control systems**: Git
-+ **DevOps**: Ansible, Docker, Docker Swarm, Server Management, Security
-+ **Misc**: Google Cloud Platform (GCP), OpenCV, Java-J2SE
++ Chandan Kumar, OpenStack/RDO developer, Red Hat, [chkumar AT redhat DOT com](chkumar@redhat.com)
