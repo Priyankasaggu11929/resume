@@ -11,7 +11,7 @@ classoption: "12pt"
 
 ## Summary
 
-Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Working closely under the guidance of mentors from leading upstream open-source projects. And an [Outreachy'19 intern at GNOME Foundation](https://www.outreachy.org/alums/).
+Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers and On-Prem deployment environments. Working closely under the guidance of mentors from leading upstream open-source projects. And currently an [Outreachy'19 intern at GNOME Foundation](https://www.outreachy.org/alums/).
 
 ## Personal Info
 
@@ -21,7 +21,6 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 + **Gitlab-salsa**: [https://salsa.debian.org/priyankasaggu119-guest](https://salsa.debian.org/priyankasaggu119-guest)
 + **Github**: [https://github.com/Priyankasaggu11929/](https://github.com/Priyankasaggu11929/)
 + **Resume.pdf**: [download here](https://github.com/Priyankasaggu11929/resume/raw/master/priyankasaggu.pdf)
-
 
 
 # Experience
@@ -38,6 +37,7 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 + Wrote Infrastructure as Code (IaC) to setup SSH-hardened servers.
 + Contributed to [**lymworkbook - a Vagrant lab environment**](https://github.com/kushaldas/lymworkbook) in setting up a few basic level sys-admins problems.
 + Setup OpenVpn service, creating both OpenVPN server and Certificate Authority (CA) server on different machines.
++ Setup On-Prem multi-cluster orchestriation platform for microservices applications deployment using kubernetes tools.
 
 #### [Debian](https://www.debian.org/intro/about)
 **2019**
@@ -49,9 +49,9 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 #### [Gnome - gtranslator](https://gitlab.gnome.org/GNOME/gtranslator/)
 **2019-Present**
 
-+ Improved UI by revamping existing GTK dialog widgets into Gedit style framing.
-+ Entirely redesigned new GtK Dialogs in accordance with Gnome Human Interface Guidelines(HIG).
-+ Refactored and improved some part of major deprecated code.
++ Enhanced UI by revamping existing widgets in accordance with Gnome Human Interface Guidelines(HIG).
++ Redesigned existing search-and-replace-bar to a new libdazzle style popover overlay widget.
++ Currently working as an Outreachy Intern under the project.
 
 ## Internships
 
@@ -78,7 +78,7 @@ _Graphics designer intern - 2018_
 + **Databases**: MySQL, SQLite
 + **Web Application servers/proxies**: Nginx, Apache2
 + **Version control systems**: Git
-+ **DevOps**: Ansible, Docker, Docker Swarm, Server Management, Security
++ **DevOps**: Kubernetes, Rancher, Ansible, Docker, Docker Swarm, Helm/Helm Charts, Prometheus & Grafana, Velero, Weave Cloud, Google Kubernetes Engine (GKE), RabbitMQ
 + **Misc**: Google Cloud Platform (GCP), OpenCV, Java-J2SE
 
 
@@ -116,6 +116,7 @@ _2012-2013_
 
 ## Self
 
++ [Project Report: Parse Server On-Premise Deployment](https://priyankasaggu11929.github.io/project/2019/12/26/Task-Submission.html)
 + [A guide to a “safer” SSH!](https://priyankasaggu11929.github.io/2019/08/12/a-guide-to-a-safer-ssh/)
 + [Containerisation using Docker!](https://priyankasaggu11929.github.io/2019/07/31/containerisation-using-docker/)
 + [Let’s get started with iptables!](https://priyankasaggu11929.github.io/2019/08/09/lets-get-started-with-iptables/)
