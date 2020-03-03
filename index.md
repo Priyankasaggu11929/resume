@@ -25,6 +25,24 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 
 # Experience
 
+## Internships
+
++ [**AtlanHQ**](https://atlan.com/)
+
+_DevOps Engineer Intern - Present_
+
+
++ [**GNOME Foundation**](https://www.outreachy.org/alums/)
+
+_Outreachy'19 Intern - (Dec' 19 - Mar' 20)_
+
++ **Learn IT, Girl** [(Certificate)](https://www.credential.net/bv0kk4cq)
+
+_Scholar mentee - 2019_
+
++ **GeeksforGeeks, Noida** [(Certificate)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Priyanka-Saggu-1.jpg)
+
+_Graphics designer intern - 2018_
 ## Community Learning & Contributions
 
 #### [Dgplug Summer Training](https://dgplug.org/archive/)
@@ -39,34 +57,18 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 + Setup OpenVpn service, creating both OpenVPN server and Certificate Authority (CA) server on different machines.
 + Setup On-Prem multi-cluster orchestriation platform for microservices applications deployment using kubernetes tools.
 
+#### [Gnome - gtranslator](https://gitlab.gnome.org/GNOME/gtranslator/)
+**2019-Present**
+
++ Enhanced UI by revamping existing widgets in accordance with Gnome Human Interface Guidelines(HIG).
++ Entirely redesigned the old `search and replace bar` dialog to a new sliding overlay style custom widget, using libdazzle library.
+
 #### [Debian](https://www.debian.org/intro/about)
 **2019**
 
 + Packaged 4 django/flask dependency python modules under Debian-Python-Modules-Team (DPMT).
 + Packaged and updated 5+ ruby-gems for Debian-Diaspora project under Debian-Ruby-Team (DRT).
 + Contributed to the Debian-gitlab project under Debian-javascript-team (DJT). Improved old node modules, packaged new ones and was constantly involved in testing of Debian-gitlab for then-stable version release.
-
-#### [Gnome - gtranslator](https://gitlab.gnome.org/GNOME/gtranslator/)
-**2019-Present**
-
-+ Enhanced UI by revamping existing widgets in accordance with Gnome Human Interface Guidelines(HIG).
-+ Redesigned existing search-and-replace-bar to a new libdazzle style popover overlay widget.
-+ Currently working as an Outreachy Intern under the project.
-
-## Internships
-
-+ [**GNOME Foundation**](https://www.outreachy.org/alums/)
-
-_Outreachy'19 Intern - Present_
-
-+ **Learn IT, Girl** [(Certificate)](https://www.credential.net/bv0kk4cq)
-
-_Scholar mentee - 2019_
-
-+ **GeeksforGeeks, Noida** [(Certificate)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Priyanka-Saggu-1.jpg)
-
-_Graphics designer intern - 2018_
-
 
 # Skills/ Keywords
 
@@ -78,8 +80,8 @@ _Graphics designer intern - 2018_
 + **Databases**: MySQL, SQLite
 + **Web Application servers/proxies**: Nginx, Apache2
 + **Version control systems**: Git
-+ **DevOps**: Kubernetes, Rancher, Ansible, Docker, Docker Swarm, Helm/Helm Charts, Prometheus & Grafana, Velero, Weave Cloud, Google Kubernetes Engine (GKE), RabbitMQ
-+ **Misc**: Google Cloud Platform (GCP), OpenCV, Java-J2SE
++ **DevOps**: Kubernetes, Rancher, Ansible, Docker, Docker Swarm, Helm/Helm Charts, Prometheus & Grafana, Velero, Weave Cloud, Google Kubernetes Engine (GKE), RabbitMQ, Replicated
++ **Misc**: Google Cloud Platform (GCP), Amazon Web Services (AWS), OpenCV, Java-J2SE
 
 
 # Education
