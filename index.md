@@ -11,7 +11,7 @@ classoption: "12pt"
 
 ## Summary
 
-Resourceful DevOps enthusiast with experience in networking and programming. As a summer trainee at [Dgplug](https://dgplug.org/archive/), have set up and managed multiple Linux servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers and On-Prem deployment environments. Working closely under the guidance of mentors from leading upstream open-source projects. And currently an [Outreachy'19 intern at GNOME Foundation](https://www.outreachy.org/alums/).
+Resourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms. During the internship at [Atlan](https://atlan.com), I've been working on writing fully automated product releases, with zero interference on the client enterprise end. As a summer trainee at [Dgplug](https://dgplug.org/archive/), I have set up and managed multiple Linux-based servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Have experience with On-Prem deployment environments using Rancher. And I'm an [Outreachy'19 alum at GNOME Foundation](https://www.outreachy.org/alums/) too.
 
 ## Personal Info
 
@@ -25,24 +25,24 @@ Resourceful DevOps enthusiast with experience in networking and programming. As 
 
 # Experience
 
-## Internships
-
 + [**AtlanHQ**](https://atlan.com/)
 
-_DevOps Engineer Intern - Present_
+    - _DevOps Engineer  - (May' 20 - Present)_
+    - _DevOps Engineer Intern - (Feb' 20 - May' 20)_
 
 
 + [**GNOME Foundation**](https://www.outreachy.org/alums/)
 
-_Outreachy'19 Intern - (Dec' 19 - Mar' 20)_
+    - _Outreachy'19 Intern - (Dec' 19 - Mar' 20)_
 
 + **Learn IT, Girl** [(Certificate)](https://www.credential.net/bv0kk4cq)
 
-_Scholar mentee - 2019_
+    - _Scholar mentee - 2019_
 
 + **GeeksforGeeks, Noida** [(Certificate)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Priyanka-Saggu-1.jpg)
 
-_Graphics designer intern - 2018_
+    - _Graphics designer intern - 2018_
+
 ## Community Learning & Contributions
 
 #### [Dgplug Summer Training](https://dgplug.org/archive/)
@@ -80,7 +80,7 @@ _Graphics designer intern - 2018_
 + **Databases**: MySQL, SQLite
 + **Web Application servers/proxies**: Nginx, Apache2
 + **Version control systems**: Git
-+ **DevOps**: Kubernetes, Rancher, Ansible, Docker, Docker Swarm, Helm/Helm Charts, Prometheus & Grafana, Velero, Weave Cloud, Google Kubernetes Engine (GKE), RabbitMQ, Replicated
++ **DevOps**: Kubernetes, Rancher, Ansible, Docker, Docker Swarm, Helm/Helm Charts, Prometheus & Grafana, Velero, Weave Cloud, Google Kubernetes Engine (GKE), RabbitMQ, Replicated/KOTS, CircleCI, Github Actions
 + **Misc**: Google Cloud Platform (GCP), Amazon Web Services (AWS), OpenCV, Java-J2SE
 
 
@@ -110,7 +110,7 @@ _2012-2013_
 
 # Additional activities
 
-+ Regional Head - Haryana, GirlScript Foundation Private Limited.
++ Regional Head - Haryana, GirlScript Foundation Private Limited (2019-2020).
 + Organised `Python 1O1 BootCamp` in Haryana state-level technical fest, Technova.
 + Attended IWD'19 event in Google, Gurugram. Also, the women's mega day meetup in Microsoft, Gurugram.
 
