@@ -118,6 +118,8 @@ _2012-2013_
 
 ## Self
 
++ [Automating private dataproc cluster deployment having Presto Installation (on GCP)!](https://priyankasaggu11929.github.io/writing/2020/04/26/Custom-GCP-TypeProviders.html)
++ [Custom GCP type provider for automating `VPC Network Peering` creation!](https://priyankasaggu11929.github.io/writing/2020/04/27/Private-Postgress-Deployment-under-a-subnet.html)
 + [Parse Server On-Premise Deployment](https://priyankasaggu11929.github.io/project/2019/12/26/Task-Submission.html)
 + [A guide to a “safer” SSH!](https://priyankasaggu11929.github.io/2019/08/12/a-guide-to-a-safer-ssh/)
 + [Consul Key-Value Store!](https://priyankasaggu11929.github.io/outreachy/2020/01/05/Task-Submission-2.html)
