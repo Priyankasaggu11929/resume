@@ -11,7 +11,7 @@ classoption: "12pt"
 
 ## Summary
 
-Resourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms. During the internship at [Atlan](https://atlan.com), I've been working on writing fully automated product releases, with zero interference on the client enterprise end. As a summer trainee at [Dgplug](https://dgplug.org/archive/), I have set up and managed multiple Linux-based servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Have experience with On-Prem deployment environments using Rancher. And I'm an [Outreachy'19 alum at GNOME Foundation](https://www.outreachy.org/alums/) too.
+Resourceful DevOps enthusiast, having experience working with highly distributed infrastructure on hybrid cloud platforms. Having an years long experience as a DevOps Engineer, I've been writing fully automated product releases, with minimal interference on the client enterprise end. As a summer trainee at [Dgplug](https://dgplug.org/archive/), I have set up and managed multiple Linux-based servers. Wrote Infrastructure as Code(IaC) to automate setting up of tightly-secured and SSH-hardened systems/servers. Also, have an experience with On-Prem deployment environments setup using Rancher. And I'm an [Outreachy'19 alumna at GNOME Foundation](https://www.outreachy.org/alums/) too.
 
 ## Personal Info
 
@@ -25,23 +25,20 @@ Resourceful DevOps enthusiast, having experience working with highly distributed
 
 # Experience
 
-+ [**AtlanHQ**](https://atlan.com/)
+[**AtlanHQ**](https://atlan.com/)
 
-    - _DevOps Engineer  - (May' 20 - Present)_
-    - _DevOps Engineer Intern - (Feb' 20 - May' 20)_
++ _DevOps Engineer  - (May' 20 - Present)_
++ _DevOps Engineer Intern - (Feb' 20 - May' 20)_
+    
+Working at a DataOps organisation, has resulted in a high level of expertise in writing & maintaining infrastructure for industrial use. In one instance, I’ve worked on optimizing the cost of running an entire data cataloging & discovery stack by 40%, bringing in a lite version of the product.
 
+[**GNOME Foundation**](https://www.outreachy.org/alums/)
 
-+ [**GNOME Foundation**](https://www.outreachy.org/alums/)
++ _Outreachy'19 Intern - (Dec' 19 - Mar' 20)_
 
-    - _Outreachy'19 Intern - (Dec' 19 - Mar' 20)_
+[GeeksforGeeks, Noida](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Priyanka-Saggu-1.jpg)
 
-+ **Learn IT, Girl** [(Certificate)](https://www.credential.net/bv0kk4cq)
-
-    - _Scholar mentee - 2019_
-
-+ **GeeksforGeeks, Noida** [(Certificate)](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Priyanka-Saggu-1.jpg)
-
-    - _Graphics designer intern - 2018_
++ _Graphics designer intern - 2018_
 
 ## Community Learning & Contributions
 
@@ -55,7 +52,7 @@ Resourceful DevOps enthusiast, having experience working with highly distributed
 + Wrote Infrastructure as Code (IaC) to setup SSH-hardened servers.
 + Contributed to [**lymworkbook - a Vagrant lab environment**](https://github.com/kushaldas/lymworkbook) in setting up a few basic level sys-admins problems.
 + Setup OpenVpn service, creating both OpenVPN server and Certificate Authority (CA) server on different machines.
-+ Setup On-Prem multi-cluster orchestriation platform for microservices applications deployment using kubernetes tools.
++ Setup On-Prem multi-cluster orchestriation platform for microservices applications deployment using Rancher & managed kubernetes cluster.
 
 #### [Gnome - gtranslator](https://gitlab.gnome.org/GNOME/gtranslator/)
 **2019-Present**
@@ -80,6 +77,7 @@ Resourceful DevOps enthusiast, having experience working with highly distributed
 + **Databases**: MySQL, SQLite
 + **Web Application servers/proxies**: Nginx, Apache2
 + **Version control systems**: Git
++ **Markup & Documentation**: LaTeX, Pandoc, Markdown
 + **DevOps**: Kubernetes, Rancher, Ansible, Docker, Docker Swarm, Helm/Helm Charts, Prometheus & Grafana, Velero, Weave Cloud, Google Kubernetes Engine (GKE), RabbitMQ, Replicated/KOTS, CircleCI, Github Actions
 + **Misc**: Google Cloud Platform (GCP), Amazon Web Services (AWS), OpenCV, Java-J2SE
 
