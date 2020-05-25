@@ -51,7 +51,7 @@ Working at a DataOps organisation, has resulted in a high level of expertise in 
 + Set up multiple Docker containers, orchestrated using Docker Swarm, for carrying out test deployments.
 + Wrote Infrastructure as Code (IaC) to setup SSH-hardened servers.
 + Contributed to [**lymworkbook - a Vagrant lab environment**](https://github.com/kushaldas/lymworkbook) in setting up a few basic level sys-admins problems.
-+ Setup OpenVpn service, creating both OpenVPN server and Certificate Authority (CA) server on different machines.
++ Setup OpenVPN service, creating both OpenVPN server and Certificate Authority (CA) server on different machines.
 + Setup On-Prem multi-cluster orchestriation platform for microservices applications deployment using Rancher & managed kubernetes cluster.
 
 #### [Gnome - gtranslator](https://gitlab.gnome.org/GNOME/gtranslator/)
